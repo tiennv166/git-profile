@@ -1,0 +1,52 @@
+{
+  "configurations" : [
+    {
+      "id" : "9C08DBA5-F2A4-46FA-AB3B-31DAD0B5A3DD",
+      "name" : "Debug Configuration",
+      "options" : {
+        "targetForVariableExpansion" : {
+          "containerPath" : "container:GitProfile.xcodeproj",
+          "identifier" : "7B444B1F2DFC68DE00369922",
+          "name" : "GitProfile"
+        }
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:GitProfile.xcodeproj",
+          "identifier" : "7B444B0D2DFC68DC00369922",
+          "name" : "GitProfile"
+        },
+        {
+          "containerPath" : "container:GitProfile.xcodeproj",
+          "identifier" : "7B444B652DFD2D3200369922",
+          "name" : "GitProfileServices"
+        }
+      ]
+    },
+    "maximumTestRepetitions" : 2,
+    "testOrder" : "random",
+    "testRepetitionMode" : "retryOnFailure",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:GitProfile.xcodeproj",
+        "identifier" : "7B444B6F2DFD2D3200369922",
+        "name" : "GitProfileServicesTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:GitProfile.xcodeproj",
+        "identifier" : "7B444B1F2DFC68DE00369922",
+        "name" : "GitProfileTests"
+      }
+    }
+  ],
+  "version" : 1
+}

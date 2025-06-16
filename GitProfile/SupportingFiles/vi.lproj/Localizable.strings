@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  GitProfile
+
+  Created by Tien Nguyen on 15/6/25.
+  
+*/
+
+"common.error.title" = "Oops, đã có lỗi xảy ra";
+"common.error.description" = "Vui lòng thử lại sau";
+"retry" = "Thử lại";
+"common.empty.title" = "Oops, không có dữ liệu";
+
+"tab.home" = "Trang chủ";
+"user.list.view.title" = "Danh sách GitHub";
+"user.details.view.title" = "Chi tiết người dùng";
+
+"user.details.view.follower" = "Người theo dõi";
+"user.details.view.following" = "Đang theo dõi";
+"user.details.view.blog" = "Blog";
+"user.details.view.bio" = "Tiểu sử";

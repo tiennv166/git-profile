@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  GitProfile
+
+  Created by Tien Nguyen on 15/6/25.
+  
+*/
+
+"common.error.title" = "Oops, an error occurred";
+"common.error.description" = "Please try again later";
+"retry" = "Retry";
+"common.empty.title" = "Oops, no data available";
+
+"tab.home" = "Home";
+"user.list.view.title" = "GitHub Users";
+"user.details.view.title" = "User Details";
+
+"user.details.view.follower" = "Follower";
+"user.details.view.following" = "Following";
+"user.details.view.blog" = "Blog";
+"user.details.view.bio" = "Bio";
